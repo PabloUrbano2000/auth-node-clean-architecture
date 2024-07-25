@@ -19,3 +19,7 @@ docker compose up -d
 ```
 mongodb://<user>:<password>@localhost:27017
 ```
+5. Levantar el proyecto
+```
+npm run dev
+```
